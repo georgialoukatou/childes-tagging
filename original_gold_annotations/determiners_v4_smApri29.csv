@@ -1,0 +1,101 @@
+,Unnamed: 0,token_id,gloss,utterance_id,utterance_gloss,part_of_speech,log_frequency_bin,speaker_role,spacy_part_of_speech,spacy_morphology,childes_remapped_part_of_speech,spacy_pos_converted,agree,correct_pos,ill-formed,comment
+120,120,61910315,my,16958156,I can't said the elephant please begged the bird I won't be gone long sir I give you my word,det:poss,3,Mother,PRON,Number=Sing|Person=1|Poss=Yes|PronType=Prs,det,pro,FALSE,,,pron  + poss = yes -> det:poss
+474,474,62683794,one,17146245,this little chick from over the way went to skip with the lambs one day and what do you think they heard him say,det:num,3,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+882,882,61991771,thirteen,16976085,the thirteen women put on different kinds of complicated underwear,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+883,883,61240098,eights,16781180,where's your eights,det:num,0,Mother,NOUN,Number=Plur,num,n,FALSE,n,,
+884,884,62823719,nineteen,17179814,the giraffe is the tallest animal on Earth it can grow to be nineteen feet tall,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+885,885,61200995,eight,16773244,two three four five six seven eight nine,det:num,2,Target_Child,NUM,NumType=Card,num,num,TRUE,num,,
+886,886,61200993,six,16773244,two three four five six seven eight nine,det:num,2,Target_Child,NUM,NumType=Card,num,num,TRUE,num,,
+887,887,62375966,a,17064456,you have a naked arm and an arm with a shirt on it,det:art,4,Mother,DET,Definite=Ind|PronType=Art,det,pro,FALSE,,,det  + pronType= article-> det:art. What is currently turning them into pronouns?
+888,888,61911463,thousands,16961335,and everywhere thousands of folks flocked to see and laugh at the elephant up in a tree,det:num,0,Mother,NOUN,Number=Plur,num,n,FALSE,n,,
+889,889,61994735,hundreds,16979889,there he can be seen very clearly by the one hundred and four people on the stage and by the hundreds of people in the audience,det:num,0,Mother,NOUN,Number=Plur,num,n,FALSE,n,,
+890,890,62652398,that,17137546,look at that big fat belly,det:dem,3,Mother,DET,Number=Sing|PronType=Dem,det,det,TRUE,det,,
+891,891,62705672,ten,17151388,ten makes a celebration loud loud loud,det:num,2,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+892,892,62195769,a,17026803,a prancing yyy a,det:art,4,Target_Child,DET,Definite=Ind|PronType=Art,det,pro,FALSE,,,det  + pronType= article-> det:art
+893,893,62293185,what,17046899,like a what like a musketeer,det:int,0,Mother,PRON,,det,pro,FALSE,,,underespecified in SpaCy
+894,894,62697937,seventeen,17138834,fifteen forks sixteen marbles seventeen pencil sharpeners eighteen umbrellas nineteen shelves,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+895,895,62697940,eighteen,17138834,fifteen forks sixteen marbles seventeen pencil sharpeners eighteen umbrellas nineteen shelves,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+896,896,61286749,these,16797612,how bout these eyes,det:dem,3,Mother,DET,Number=Plur|PronType=Dem,det,det,TRUE,,,det  + PronType=Dem-> det:dem
+897,897,62342101,hundreds,17060745,next door in Candy's corner window were hundreds of vampire teeth,det:num,0,Mother,NOUN,Number=Plur,num,n,FALSE,n,,
+898,898,61217383,eight,16782621,yyy a eight,det:num,2,Target_Child,NUM,NumType=Card,num,num,TRUE,,TRUE,ambiguous
+899,899,61482808,my,16856601,from my engine shiny and black,det:poss,3,Mother,PRON,Number=Sing|Person=1|Poss=Yes|PronType=Prs,det,pro,FALSE,,,pron  + poss = yes -> det:poss
+900,900,61625116,the,16896517,shi buckle Birthday_Bear on the other side,det:art,4,Mother,DET,Definite=Def|PronType=Art,det,det,TRUE,,,det  + pronType= article-> det:art
+901,901,61996055,seventies,16985309,that's my birth decade we're back in the seventies,det:num,0,Mother,NOUN,Number=Plur,num,n,FALSE,n,,
+902,902,61889955,zero,16966310,it's zero,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+903,903,62295530,nineteen,17050843,Naima is nineteen months old,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+904,904,62286527,a,17054850,because the circus is a fun thing to see,det:art,4,Mother,DET,Definite=Ind|PronType=Art,det,pro,FALSE,,,det + pronType= artucle-> det:art
+905,905,62665587,millions,17129954,millions of stars twinkle in the night sky,det:num,0,Mother,NOUN,Number=Plur,num,n,FALSE,n,,
+906,906,62598852,three,17111525,one two three books,det:num,3,Target_Child,NUM,NumType=Card,num,num,TRUE,num,,
+907,907,61578531,the,16884919,the island of Sodor ambulance,det:art,4,Mother,DET,Definite=Def|PronType=Art,det,det,TRUE,,,det + pronType= article-> det:art
+908,908,62522425,zero,17103958,well not zero nursing but you didn't wake up to nurse until four thirty,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,adj,,
+909,909,62704731,a,17144263,xxx read me a book,det:art,4,Target_Child,DET,Definite=Ind|PronType=Art,det,pro,FALSE,,,det + pronType= article-> det:art
+910,910,62102793,her,17010890,we played soccer at her house,det:poss,3,Mother,PRON,Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs,det,pro,FALSE,,,pron  + poss = yes -> det:poss
+911,911,62182107,my,17026093,actually you know what I can put them on my nails my finger nails,det:poss,3,Mother,PRON,Number=Sing|Person=1|Poss=Yes|PronType=Prs,det,pro,FALSE,,,pron  + poss = yes -> det:poss
+912,912,62086655,one,16998361,no one has Shark Tale yet it's just in the movie theater,det:num,3,Mother,NOUN,Number=Sing,num,n,FALSE,pro,,
+913,913,62682834,fourteen,17141970,fourteen seven flies with fourteen eyes,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+914,914,62952649,the,17209191,mm okay now I'm gonna heat the pan up okay,det:art,4,Mother,DET,Definite=Def|PronType=Art,det,det,TRUE,,,det + pronType= article-> det:art
+915,915,61346861,fours,16805322,no fours over there in the other bed,det:num,0,Mother,NOUN,Number=Plur,num,n,FALSE,,TRUE,missing contraction
+916,916,62974767,this,17210794,can you lift this one up,det:dem,4,Mother,DET,Number=Sing|PronType=Dem,det,det,TRUE,,,det  + PronType=Dem-> det:dem
+917,917,62587022,the,17116339,I'm the doctor and I'm seeing another patient,det:art,4,Target_Child,DET,Definite=Def|PronType=Art,det,det,TRUE,,,det + pronType= article-> det:art
+918,918,62578201,seventeen,17110062,there was a very bad blizzard almost this bad seventeen years ago,det:num,1,Father,NUM,NumType=Card,num,num,TRUE,num,,
+919,919,61583574,zillion,16876895,a zillion eyes,det:num,0,Target_Child,NOUN,Number=Sing,num,n,FALSE,num,,
+920,920,62332174,twenty,17058400,this salsa only has twenty one,det:num,2,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+921,921,61231058,eight,16784421,eight yyy yyy yyy,det:num,2,Target_Child,NUM,NumType=Card,num,num,TRUE,num,,
+922,922,62262226,his,17052940,Max took the crown and wig off Rapunzel and put them on his spider xxx,det:poss,3,Mother,PRON,Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs,det,pro,FALSE,,,pron  + poss = yes -> det:poss
+923,923,62733751,thirty,17157370,one thirty four,det:num,2,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+924,924,62408581,the,17084908,does the bear want more of the plain kind of yogurt,det:art,4,Mother,DET,Definite=Def|PronType=Art,det,det,TRUE,,,det + pronType= article-> det:art
+925,925,62367804,this,17073090,turn this microphone off,det:dem,4,Mother,DET,Number=Sing|PronType=Dem,det,det,TRUE,,,det  + PronType=Dem-> det:dem
+926,926,62345616,the,17068595,those that part of the snowplow pushes the snow,det:art,4,Mother,DET,Definite=Def|PronType=Art,det,det,TRUE,,,det + pronType= article-> det:art
+927,927,62821482,thousands,17178454,these changes takes hundreds of thousands of years oceans rise up covering parts of the land sheets of ice called glaciers move and carry rocks and dirt with them,det:num,0,Mother,NOUN,Number=Plur,num,n,FALSE,n,,
+928,928,62265038,a,17042073,xxx ma make a yyy,det:art,4,Target_Child,DET,Definite=Ind|PronType=Art,det,pro,FALSE,,,det + pronType= article-> det:art
+929,929,61550385,nine,16881110,nine,det:num,2,Media,NUM,NumType=Card,num,num,TRUE,num,,
+930,930,61775796,fours,16938092,I think by the time September starts we'll be like we should have done three or fours mornings a week,det:num,0,Mother,NOUN,Number=Plur,num,n,FALSE,n,,
+931,931,61528223,the,16871851,way far away from the bridge and the crack and the track,det:art,4,Mother,DET,Definite=Def|PronType=Art,det,det,TRUE,,,det + pronType= article-> det:art
+932,932,61894230,thousands,16959170,um beetles eat all kinds of plants and animals and there are thousands of different beetles living everywhere,det:num,0,Mother,NOUN,Number=Plur,num,n,FALSE,n,,
+933,933,61578822,twelve,16888061,twelve,det:num,2,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+934,934,61316093,your,16819316,you want your kitty+cat,det:poss,4,Mother,PRON,Person=2|Poss=Yes|PronType=Prs,det,pro,FALSE,,,pron  + poss = yes -> det:poss
+935,935,61276497,this,16796741,oh what is this going on this track,det:dem,4,Mother,DET,Number=Sing|PronType=Dem,det,det,TRUE,,,det  + PronType=Dem-> det:dem
+936,936,61180093,eight,16763842,one two three four five six seven eight nine ten eleven twelve,det:num,2,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+937,937,61358682,million,16823362,and a million million million million million bumps,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+938,938,62046786,ones,17002713,and the other ones and the other and the black rubber bands keep you safe,det:num,2,Target_Child,NOUN,Number=Plur,num,n,FALSE,pro,,
+939,939,61329181,nineteen,16819960,nineteen,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+940,940,61903098,my,16953147,my mom's making me get rid of these she said sadly oh boy cool cat comics said Arthur,det:poss,3,Mother,PRON,Number=Sing|Person=1|Poss=Yes|PronType=Prs,det,pro,FALSE,,,pron  + poss = yes -> det:poss
+941,941,62578275,a,17110139,if you wore the microphone on your shirt we would have a very good recording,det:art,4,Father,DET,Definite=Ind|PronType=Art,det,pro,FALSE,,,det + pronType= article-> det:art
+942,942,62404120,an,17072995,that bird is an albatross,det:art,3,Target_Child,DET,Definite=Ind|PronType=Art,det,pro,FALSE,,,det + pronType= article-> det:art
+943,943,62855523,its,17185557,this puzzle its,det:poss,2,Mother,PRON,Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs,det,pro,FALSE,,TRUE,ungrammatical
+944,944,61869481,a,16957241,and a um a crocodile,det:art,4,Target_Child,DET,Definite=Ind|PronType=Art,det,pro,FALSE,,,det + pronType= article-> det:art
+945,945,62405464,three,17075253,one two three four five six seven eight,det:num,3,Target_Child,NUM,NumType=Card,num,num,TRUE,num,,
+946,946,61211774,six,16780190,say six,det:num,2,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+947,947,61984863,a,16971695,I'll get not a big one,det:art,4,Target_Child,DET,Definite=Ind|PronType=Art,det,pro,FALSE,,,det + pronType= article-> det:art
+948,948,62511541,the,17087935,so if the vacuum+cleaner had a round shape do you think she would still be afraid of it,det:art,4,Mother,DET,Definite=Def|PronType=Art,det,det,TRUE,,,det + pronType= article-> det:art
+949,949,62763171,fourteen,17164805,fourteen dollars,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+950,950,61236214,fives,16778289,that's a whole bunch of fives,det:num,0,Mother,NOUN,Number=Plur,num,n,FALSE,n,,
+951,951,61441379,fourteen,16848456,yyy fourteen,det:num,1,Target_Child,NUM,NumType=Card,num,num,TRUE,num,,
+952,952,62692327,eight,17142990,so it was eight thirty ta to two thirty,det:num,2,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+953,953,61809469,an,16941531,you've got an olive on your finger,det:art,3,Mother,DET,Definite=Ind|PronType=Art,det,pro,FALSE,,,det + pronType= article-> det:art
+954,954,62412517,two,17082461,use two hands for that,det:num,3,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+955,955,62027068,trillion,16983477,the solar system was once a cloud of dust and gas that stretched for more than a trillion miles,det:num,0,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+956,956,62188433,the,17030100,and how about the little elephant,det:art,4,Mother,DET,Definite=Def|PronType=Art,det,det,TRUE,,,det + pronType= article-> det:art
+957,957,61330022,forty,16824256,the record is six let's play forty five seconds starts now,det:num,1,Media,NUM,NumType=Card,num,num,TRUE,num,,
+958,958,62742804,ninety,17160005,for a dollar ninety nine is that a lot,det:num,1,Brother,NUM,NumType=Card,num,num,TRUE,num,,
+959,959,62277237,this,17051978,okay but I'm gonna take care of this water first,det:dem,4,Mother,DET,Number=Sing|PronType=Dem,det,det,TRUE,,,det  + PronType=Dem-> det:dem
+960,960,61182631,nine,16763337,xxx nine nine,det:num,2,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+961,961,61343337,thirteen,16826423,thirteen I think I can do thirteen,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+962,962,62235460,ones,17040210,you want the other ones okay,det:num,2,Mother,NOUN,Number=Plur,num,n,FALSE,pro,,
+963,963,62366453,nine,17060456,nine cows,det:num,2,Target_Child,NUM,NumType=Card,num,num,TRUE,num,,
+964,964,61351112,thirteen,16811676,uh what's that a dog and a yyy thirteen,det:num,1,Target_Child,NUM,NumType=Card,num,num,TRUE,num,,
+965,965,61340550,two,16823201,two hats Mom,det:num,3,Target_Child,NUM,NumType=Card,num,num,TRUE,num,,
+966,966,61766651,his,16931131,and his snappy cap flew off,det:poss,3,Mother,PRON,Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs,det,pro,FALSE,,,pron  + poss = yes -> det:poss
+967,967,62622078,six,17125742,one two three four five six seven eight,det:num,2,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+968,968,61562635,my,16884219,oh my gosh,det:poss,3,Mother,INTJ,,intj,intj,TRUE,intj,,
+969,969,61566630,its,16874706,xxx it landed just on its body with no wheels,det:poss,2,Mother,PRON,Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs,det,pro,FALSE,,,pron  + poss = yes -> det:poss
+970,970,61949028,a,16976107,it's a big black piano,det:art,4,Mother,DET,Definite=Ind|PronType=Art,det,pro,FALSE,,,det + pronType= article-> det:art
+971,971,62366432,the,17060351,oh that's the milking parlor,det:art,4,Mother,DET,Definite=Def|PronType=Art,det,det,TRUE,,,det + pronType= article-> det:art
+972,972,61662104,an,16907669,that's an urchin,det:art,3,Mother,DET,Definite=Ind|PronType=Art,det,pro,FALSE,,,det + pronType= article-> det:art
+973,973,61670442,the,16906788,the doctors checks your ears and mouth,det:art,4,Mother,DET,Definite=Def|PronType=Art,det,det,TRUE,,,det + pronType= article-> det:art
+974,974,61415017,that,16837032,that night Little Bird came over,det:dem,3,Mother,DET,Number=Sing|PronType=Dem,det,det,TRUE,,,det  + PronType=Dem-> det:dem
+975,975,61329354,thirteen,16820893,before thirteen,det:num,1,Media,NUM,NumType=Card,num,num,TRUE,num,,
+976,976,61330648,eighteen,16827005,eighteen,det:num,1,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+977,977,61329154,thirteen,16819772,thirteen good job,det:num,1,Media,NUM,NumType=Card,num,num,TRUE,num,,
+978,978,62751605,seven,17160155,six little fingers icy and shaking seven little fingers covered in snow,det:num,2,Mother,NUM,NumType=Card,num,num,TRUE,num,,
+979,979,61784210,twos,16944943,Franklin could count by twos and tie his shoes,det:num,1,Mother,NOUN,Number=Plur,num,n,FALSE,n,,
