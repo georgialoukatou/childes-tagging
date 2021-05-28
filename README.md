@@ -1,7 +1,7 @@
 # childes-tagging
 reformatting soon  
 Current steps require running notebooks in Jupyter, but I'm planning to add command-line functionality  
-https://docs.google.com/document/d/1nDBty5LLoRhuC5l6h0QlKRcKQ6hKNCfNIEenbQm8u1I/edit  
+https://docs.google.com/document/d/1nDBty5LLoRhuC5l6h0QlKRcKQ6hKNCfNIEenbQm8u1I/edit?usp=sharing
 
 ## Steps to run analysis:
 ### 1. Sample token IDs
